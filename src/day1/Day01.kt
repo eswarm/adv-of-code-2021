@@ -1,5 +1,5 @@
 fun main() {
-    val testInput = readInput("Day01_test")
+    val testInput = readInput("Day01_input")
 
     var incCnt = 0
     for(i in 1 until testInput.size) {
